@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "drSv7aQ2EOvjFGD+UuT/Eb/mV6Yj65q1C8AvuTrV8obN7Hzu8qr9ZFj0E8HDhP4w8RhdvrpKrD3JnhA1efrV/w==",
+  "success": true,
+  "projectFilePath": "D:\\vs projects\\EuroGUI\\EuroGUI\\EuroGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KV\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\KV\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\KV\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\KV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
